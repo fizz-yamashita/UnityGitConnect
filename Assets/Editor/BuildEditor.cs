@@ -2,7 +2,7 @@
 using UnityEngine;
 using System.Diagnostics;
 
-public class ScriptBatch 
+public class BuildEditor 
 {
 	[MenuItem("MyTools/BuildExecute")]
 	public static void BuildExecute ()
