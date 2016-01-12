@@ -9,7 +9,7 @@ using System.Collections;
 //!		@warning	
 // ============================================================
 
-enum STATEMACHINE_NAME : int
+public enum STATEMACHINE_NAME : int
 {
 	BATTLE,
 	NETWORK,
